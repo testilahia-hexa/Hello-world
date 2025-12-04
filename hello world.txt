@@ -1,3 +1,7 @@
 i wrote this line first
 Second line
 third line
+<<<<<<< HEAD
+=======
+i wanna merge
+>>>>>>> cse
